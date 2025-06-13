@@ -12,5 +12,6 @@ You can install `Na_number` using:
 - pip install Na_number
 # using below script you can explore the methods of this module 
 - from Na_number import nanumber
+  
   print(dir(nanumber()))
 
